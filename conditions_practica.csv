@@ -1,0 +1,5 @@
+heterogeneity,words,max_category,min_category
+0.4375,"italia,beige,australia,uk,rosa,negro,noruega,rojo,méxico,marron,bolivia,usa,dorado,peru,portugal,gris",countries,colors
+0.375,"perro,aguila,lobo,dibujar,abrir,ensenar,saltar,reir,ballena,aprender,volar,beber,zorro,romper,comer,canguro",verbs,animals
+0.0625,"cian,morado,jugar,verde,granate,negro,lavanda,turquesa,celeste,gris,dorado,azul,rosa,blanco,amarillo,marron",colors,verbs
+0.3125,"estufa,tostadora,secador de pelo,microondas,higo,picadora,papaya,arándano,frambuesa,refrigerador,melocoton,plancha,televisor,extractor,lavavajillas,aspiradora",electro,fruits

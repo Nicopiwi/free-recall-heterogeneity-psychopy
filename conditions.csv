@@ -1,0 +1,19 @@
+heterogeneity,words,max_category,min_category
+0.0,"clarinete,bateria,acordeon,tuba,tambor,saxofon,bajo,fagot,trompeta,contrabajo,marimba,violin,banjo,guitarra,piano,arpa",instruments,colors
+0.1875,"venezuela,francia,bolivia,ciruela,uk,mango,colombia,brasil,sudafrica,kiwi,australia,japon,noruega,usa,argentina,canadá",countries,fruits
+0.5,"ventilador,deshumidificador,camello,plancha,picadora,aguila,secadora,jirafa,koala,rinoceronte,freidora,colibri,gato,leon,aspiradora,lavadora",electro,animals
+0.375,"mirar,dibujar,ensenar,construir,zorro,saltar,tortuga,leon,romper,delfin,escuchar,nadar,mono,cocinar,escribir,colibri",verbs,animals
+0.25,"oboe,sandia,durazno,ciruela,fagot,frambuesa,limon,melocoton,higo,banana,contrabajo,manzana,granada,violin,piña,kiwi",fruits,instruments
+0.0625,"refrigerador,deshumidificador,estufa,plancha,radiador,calentador,licuadora,microondas,tostadora,cortafiambres,aspiradora,cafetera,picadora,batidora,canguro,ventilador",electro,animals
+0.125,"fagot,arpa,oboe,violonchelo,banjo,tiburon,flauta,cocodrilo,saxofon,ukelele,violin,mandolina,guitarra,acordeon,trompeta,trombon",instruments,animals
+0.3125,"peru,higo,durazno,ciruela,bolivia,ecuador,cereza,limon,melón,piña,arándano,maracuya,pera,paraguay,frutilla,brasil",fruits,countries
+0.4375,"volar,kiwi,melón,mango,limon,pera,ciruela,correr,banana,bailar,pintar,caminar,beber,pensar,jugar,leer",verbs,fruits
+0.0,"cocodrilo,ardilla,halcón,murciélago,koala,mono,gato,camello,oso,aguila,colibri,pingüino,ballena,perro,tortuga,cebra",animals,fruits
+0.1875,"colibri,ballena,koala,buho,delfin,brasil,cocodrilo,francia,camello,rinoceronte,mono,tiburon,murciélago,panda,hipopotamo,canadá",animals,countries
+0.5,"lavanda,violonchelo,ukelele,armónica,azul,oboe,rosa,bateria,arpa,marron,turquesa,lila,mandolina,violeta,amarillo,clarinete",instruments,colors
+0.375,"caminar,cocodrilo,escuchar,reir,camello,comer,cocinar,saltar,llorar,jirafa,leon,construir,nadar,gato,aprender,colibri",verbs,animals
+0.25,"radiador,humidificador,cebra,camello,extractor,microondas,lavavajillas,leon,aire acondicionado,licuadora,cortafiambres,jirafa,estufa,televisor,batidora,tostadora",electro,animals
+0.0625,"plancha,horno,tostadora,picadora,humidificador,microondas,estufa,freidora,extractor,deshumidificador,cortafiambres,licuadora,secador de pelo,dorado,secadora,congelador",electro,colors
+0.125,"egipto,volar,caminar,comer,grecia,jugar,pintar,romper,llorar,nadar,cantar,escribir,dormir,construir,viajar,dibujar",verbs,countries
+0.3125,"clarinete,koala,panda,mono,buho,jirafa,ukelele,ballena,trombon,conejo,camello,oboe,canguro,timbal,zorro,leon",animals,instruments
+0.4375,"deshumidificador,dorado,cian,gris,cortafiambres,tostadora,refrigerador,picadora,violeta,congelador,estufa,azul,beige,lila,granate,morado",colors,electro
